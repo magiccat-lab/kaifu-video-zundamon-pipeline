@@ -1,0 +1,61 @@
+[
+ {
+  "cue": 0,
+  "cue_id": "OP1",
+  "zunda": "こんにちは、トレカ開封コーナーなのだ。",
+  "i": 0,
+  "pause_before": null
+ },
+ {
+  "cue": 0,
+  "cue_id": "OP1",
+  "zunda": "今日は1箱開けるのだ。",
+  "i": 1,
+  "pause_before": null,
+  "yomi": "今日はヒトハコ開けるのだ。"
+ },
+ {
+  "cue": 0,
+  "cue_id": "OP1",
+  "zunda": "最後まで見てほしいのだ。",
+  "i": 2,
+  "pause_before": null
+ },
+ {
+  "cue": 1,
+  "cue_id": "B1",
+  "zunda": "これが今日開ける箱なのだ。",
+  "i": 3,
+  "pause_before": null
+ },
+ {
+  "cue": 1,
+  "cue_id": "B1",
+  "zunda": "1パック4枚入りで、1箱に20パック、全部で80枚なのだ。",
+  "i": 4,
+  "pause_before": null,
+  "yomi": "イチパックヨンマイイリで、ヒトハコにニジュッパック、全部でハチジュウマイなのだ。"
+ },
+ {
+  "cue": 2,
+  "cue_id": "K3",
+  "zunda": "3パック目を開けるのだ。",
+  "i": 5,
+  "pause_before": null,
+  "yomi": "サンパックメを開けるのだ。"
+ },
+ {
+  "cue": 2,
+  "cue_id": "K3",
+  "zunda": "あっ、これは欲しかった選手なのだ！",
+  "i": 6,
+  "pause_before": null
+ },
+ {
+  "cue": 2,
+  "cue_id": "K3",
+  "zunda": "この選手は昨季までAクラブにいて、今季からBクラブに移籍しているのだ。",
+  "i": 7,
+  "pause_before": null
+ }
+]
